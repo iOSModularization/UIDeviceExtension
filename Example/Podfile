@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UIDeviceExtension_Example' do
+  pod 'UIDeviceExtension', :path => '../'
+
+  target 'UIDeviceExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
