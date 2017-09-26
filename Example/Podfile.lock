@@ -1,0 +1,16 @@
+PODS:
+  - UIDeviceExtension (0.1.0)
+
+DEPENDENCIES:
+  - UIDeviceExtension (from `../`)
+
+EXTERNAL SOURCES:
+  UIDeviceExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UIDeviceExtension: 4e1534f3aae871463483751ca2ea7f46e914f6b3
+
+PODFILE CHECKSUM: e4db5bf6dae7f1f46256aef7742be1b2ae3ffed7
+
+COCOAPODS: 1.3.0.beta.2

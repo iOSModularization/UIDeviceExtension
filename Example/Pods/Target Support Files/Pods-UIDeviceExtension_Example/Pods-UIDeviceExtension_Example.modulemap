@@ -1,0 +1,6 @@
+framework module Pods_UIDeviceExtension_Example {
+  umbrella header "Pods-UIDeviceExtension_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
